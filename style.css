@@ -81,10 +81,10 @@ img{
   background-position: center top;
 }
 #home{
+  height:300px;
   background-image: url(../images/main-bg.png);
   background-blend-mode: luminosity;
-  width:1200px;
-  min-height: 100vh;
+ 
 }
 #home .page-title{
   text-transform: none;
