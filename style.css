@@ -83,7 +83,8 @@ img{
 #home{
   background-image: url(../images/main-bg.png);
   background-blend-mode: luminosity;
-  width：auto 0;
+  width:1200px;
+  min-height: 100vh;
 }
 #home .page-title{
   text-transform: none;
