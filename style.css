@@ -134,7 +134,7 @@ img{
 }
 #home{
   
-  background-image: url(../images/main-bg.png);
+  background-image: url(images/main-bg.png);
   background-blend-mode: luminosity;
   min-height: 100vh;
  
