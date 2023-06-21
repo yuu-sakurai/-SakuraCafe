@@ -249,7 +249,7 @@ aside p{
 #menu{
   background-image: url(images/menu-bg-1.png);
   min-height: 100vh;
- 
+ color:#fff;
 }
 .menu-content{
   max-width: 560px;
