@@ -145,7 +145,7 @@ img{
 /*News
 -----------------------------*/
 #news{
-  background-image: url(../images/news-bg2.png);
+  background-image: url(images/news-bg2.png);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -247,7 +247,7 @@ aside p{
 
 /*MENU*/
 #menu{
-  background-image: url(../images/menu-bg-1.png);
+  background-image: url(images/menu-bg-1.png);
   min-height: 100vh;
  
 }
@@ -282,7 +282,7 @@ aside p{
 ------------------------------------*/
 
 #contact{
-  background-image: url(../images/contact-bg.png);
+  background-image: url(images/contact-bg.png);
   min-height: 100vh;
   
 }
